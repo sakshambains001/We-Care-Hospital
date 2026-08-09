@@ -1,0 +1,6 @@
+{
+  "name": "We Care Hospital",
+  "description": "A comprehensive healthcare portal for We Care Hospital, featuring doctor booking, department overviews, professional medical services, health tips, and a facilities gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
